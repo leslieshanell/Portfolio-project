@@ -16,3 +16,8 @@ h6 {
 .big-heading {
   font-size: 100px;
 }
+.primary-link {
+  border: 2px solid rgb(232, 231, 231);
+  border-radius: 5px;
+  padding: 5px;
+}
