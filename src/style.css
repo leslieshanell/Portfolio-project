@@ -21,3 +21,12 @@ h6 {
   border-radius: 5px;
   padding: 5px;
 }
+.primary-link {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #6c63ff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+}
